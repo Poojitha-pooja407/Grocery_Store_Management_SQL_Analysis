@@ -46,6 +46,13 @@ The project uses structured CSV data across multiple tables:
 
 ---
 
+## 🗺️ Entity Relationship Diagram (ERD)
+
+<img width="1069" height="442" alt="image" src="https://github.com/user-attachments/assets/ed44a684-66d5-45eb-b393-bc1f9c4e3607" />
+
+
+---
+
 ## 📊 Key Analysis & Insights
 
 ### 👤 Customer Insights
